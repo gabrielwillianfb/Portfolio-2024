@@ -8,9 +8,9 @@ export const Perfil = () => {
         <h1 className={styles.title}>Olá, me chamo Gabriel</h1>
 
         <p className={styles.description}>
-          Estudante dedicado de desenvolvimento web com 1 ano e meio de estudos, apaixonado por
-          front-end e agora explorando o mundo do Node.js. Sempre em busca de novos desafios
-          e aprendizado constante!
+          Estudante dedicado de desenvolvimento web com quase 2 anos de estudos, apaixonado por
+          front-end e agora explorando o mundo do backend, através do Next.js e Node.js. Sempre em
+          busca de novos aprendizados e desafios.
         </p>
         <a href="mailto:gabriel.beck03@gmail.com" className={styles.contactBtn}>
           Envie um e-mail

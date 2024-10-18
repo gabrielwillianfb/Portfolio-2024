@@ -12,8 +12,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Desenvolvedor Front-end</h3>
               <p>
-                Sou um desenvolvedor front-end em formação, com foco em criar sites responsivos e
-                otimizados.
+                Sou um desenvolvedor front-end em formação, com foco no uso de React e em criar
+                sites responsivos e otimizados.
               </p>
             </div>
           </li>
@@ -22,8 +22,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Estudante de Back-end</h3>
               <p>
-                Estou começando a explorar o desenvolvimento de back-end com Node.js, sempre em
-                busca de aprender mais.
+                Estou começando a explorar o desenvolvimento de back-end através do Next.js e
+                Node.js, sempre em busca de aprender mais.
               </p>
             </div>
           </li>

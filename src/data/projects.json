@@ -1,26 +1,26 @@
 [
   {
-    "title": "Projeto A",
+    "title": "ConfixBuild - Construtora",
     "imageSrc": "projects/project.png",
-    "description": "Descrição do projeto ficará aqui :) lalalalalala lalalalala lalalala lalalala.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Landing page da ConfixBuild, uma construtora especializada em construção de residências, comércios, renovação e outros serviços de alta qualidade e excelência.",
+    "skills": ["React", "GSAP", "BEM", "Odometerjs", "Swiper"],
+    "demo": "https://confixbuild.vercel.app/",
+    "source": "https://github.com/gabrielwillianfb/ConfixBuild-Company"
   },
   {
-    "title": "Projeto B",
+    "title": "Multi-App - Refatorado",
     "imageSrc": "projects/project.png",
-    "description": "Descrição do projeto ficará aqui :) lalalalalala lalalalala lalalala lalalala.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Aplicação com múltiplas funcionalidades inovadoras, como sistema de autenticação seguro, rotas protegidas, tradutor, pesquisa de filmes, gerador de QR code e busca por IP.",
+    "skills": ["React", "@emotion", "mui-material", "json-server"],
+    "demo": "https://gabrielw-multi-app.vercel.app/",
+    "source": "https://github.com/gabrielwillianfb/multi-app"
   },
   {
-    "title": "Projeto C",
+    "title": "Meteorologia",
     "imageSrc": "projects/project.png",
-    "description": "Descrição do projeto ficará aqui :) lalalalalala lalalalala lalalala lalalala.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Aplicação com uma interface simples, moderna e intuitiva, permitindo que os usuários acessem facilmente informações sobre o clima atual e a previsão da semana, além de contar com uma funcionalidade de busca de cidades.",
+    "skills": ["React", "axios"],
+    "demo": "https://meteorologia.vercel.app/",
+    "source": "https://github.com/gabrielwillianfb/Meteorologia"
   }
 ]
